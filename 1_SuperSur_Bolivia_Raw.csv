@@ -1099,3 +1099,503 @@ Estándar,Consumidor Final,Bolivia,Viacha,La Paz,3367,Occidente,Suministros de O
 Estándar,Consumidor Final,Bolivia,Trinidad,Beni,3497,Oriente,Suministros de Oficina,Cartuchos y Tinta,530.29,2,0.1,90.15
 Expreso,Consumidor Final,Bolivia,Cochabamba,Cochabamba,2941,Valles,Suministros de Oficina,Papelería,355.76,8,0.15,37.35
 Expreso,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2685,Oriente,Tecnología,Impresoras y Escáneres,4012.17,2,0.0,1003.04
+Primera Clase,Corporativo,Bolivia,Warnes,Santa Cruz,6371,Oriente,Tecnología,Impresoras y Escáneres,20076.012,10,0.2,4976.27
+Expreso,Consumidor Final,Bolivia,Cochabamba,Cochabamba,6370,Valles,Tecnología,Accesorios de Red,5509.716,3,0.05,638.86
+Expreso,Corporativo,Bolivia,Quillacollo,Cochabamba,2250,Valles,Tecnología,Teléfonos,9192.996,4,0.1,2412.44
+Estándar,Corporativo,Bolivia,Montero,Santa Cruz,7409,Oriente,Suministros de Oficina,Grapadoras y Corte,247.83,6,0.1,66.71
+Estándar,Pyme / Oficina,Bolivia,Sucre,Chuquisaca,8378,Valles,Mobiliario,Mesas de Reunión,8586.64,5,0.05,2441.4
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4926,Oriente,Tecnología,Laptops y Equipos,5525.964,4,0.15,72.21
+Estándar,Pyme / Oficina,Bolivia,Trinidad,Beni,5190,Oriente,Suministros de Oficina,Cartuchos y Tinta,2244.2,4,0.25,-148.85
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,7874,Occidente,Tecnología,Teléfonos,9128.856,3,0.0,2345.89
+Estándar,Consumidor Final,Bolivia,Tarija,Tarija,5511,Valles,Mobiliario,Sillas Ejecutivas,2160.17,4,0.05,750.19
+Primera Clase,Consumidor Final,Bolivia,El Alto,La Paz,6403,Occidente,Mobiliario,Mesas de Reunión,14231.63,11,0.15,2930.73
+Expreso,Pyme / Oficina,Bolivia,Oruro,Oruro,3666,Occidente,Suministros de Oficina,Grapadoras y Corte,243.62,10,0.05,33.53
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,5038,Occidente,Mobiliario,Mesas de Reunión,13025.81,4,0.05,2507.55
+Expreso,Consumidor Final,Bolivia,Warnes,Santa Cruz,2137,Oriente,Tecnología,Laptops y Equipos,11593.463999999998,7,0.2,2607.17
+Estándar,Consumidor Final,Bolivia,Tarija,Tarija,2691,Valles,Tecnología,Laptops y Equipos,54831.155999999995,6,0.15,8648.5
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,3223,Oriente,Suministros de Oficina,Cartuchos y Tinta,2742.95,5,0.05,569.08
+Estándar,Pyme / Oficina,Bolivia,Cochabamba,Cochabamba,7441,Valles,Tecnología,Impresoras y Escáneres,18912.924,5,0.15,3540.11
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,2955,Oriente,Suministros de Oficina,Cartuchos y Tinta,3639.07,6,0.05,-211.75
+Estándar,Corporativo,Bolivia,Tarija,Tarija,6065,Valles,Tecnología,Impresoras y Escáneres,7474.896,3,0.25,810.48
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6794,Oriente,Tecnología,Laptops y Equipos,27390.791999999998,3,0.1,7980.82
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,8631,Valles,Suministros de Oficina,Organizadores,754.2,12,0.0,-74.28
+Estándar,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3739,Oriente,Mobiliario,Escritorios,11696.35,12,0.0,4013.6
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,8640,Oriente,Tecnología,Teléfonos,11708.58,5,0.0,395.78
+Primera Clase,Corporativo,Bolivia,Potosí,Potosí,8630,Occidente,Suministros de Oficina,Grapadoras y Corte,61.36,14,0.05,20.3
+Estándar,Consumidor Final,Bolivia,Trinidad,Beni,4306,Oriente,Suministros de Oficina,Grapadoras y Corte,324.51,3,0.15,101.32
+Estándar,Corporativo,Bolivia,Cochabamba,Cochabamba,6153,Valles,Tecnología,Accesorios de Red,1318.164,10,0.25,124.13
+Primera Clase,Consumidor Final,Bolivia,Potosí,Potosí,8933,Occidente,Mobiliario,Sillas Ejecutivas,8561.84,7,0.25,2193.13
+Estándar,Corporativo,Bolivia,Montero,Santa Cruz,7302,Oriente,Tecnología,Laptops y Equipos,69094.596,8,0.25,2157.28
+Primera Clase,Consumidor Final,Bolivia,El Alto,La Paz,1761,Occidente,Suministros de Oficina,Cartuchos y Tinta,3448.39,11,0.2,1167.11
+Estándar,Consumidor Final,Bolivia,Oruro,Oruro,2359,Occidente,Mobiliario,Sillas Ejecutivas,3160.64,5,0.0,294.38
+Estándar,Corporativo,Bolivia,El Alto,La Paz,7077,Occidente,Mobiliario,Escritorios,10225.8,4,0.15,741.93
+Primera Clase,Consumidor Final,Bolivia,Montero,Santa Cruz,7401,Oriente,Tecnología,Laptops y Equipos,33552.348,10,0.25,8511.28
+Expreso,Consumidor Final,Bolivia,Warnes,Santa Cruz,3956,Oriente,Suministros de Oficina,Grapadoras y Corte,209.03,2,0.1,14.45
+Estándar,Corporativo,Bolivia,El Alto,La Paz,3083,Occidente,Tecnología,Accesorios de Red,2205.984,12,0.2,620.83
+Estándar,Corporativo,Bolivia,Trinidad,Beni,3949,Oriente,Suministros de Oficina,Papelería,359.43,8,0.1,-18.02
+Primera Clase,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1496,Oriente,Tecnología,Teléfonos,12665.988,2,0.15,2201.05
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,7265,Oriente,Tecnología,Teléfonos,15717.192,11,0.2,1678.03
+Expreso,Pyme / Oficina,Bolivia,El Alto,La Paz,3867,Occidente,Tecnología,Accesorios de Red,484.488,12,0.2,-8.07
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,1569,Occidente,Mobiliario,Sillas Ejecutivas,11199.06,3,0.05,2445.67
+Estándar,Pyme / Oficina,Bolivia,La Paz,La Paz,4705,Occidente,Tecnología,Accesorios de Red,5853.575999999999,2,0.1,599.84
+Estándar,Pyme / Oficina,Bolivia,Sucre,Chuquisaca,4970,Valles,Tecnología,Accesorios de Red,4457.124,10,0.0,-326.87
+Expreso,Corporativo,Bolivia,Quillacollo,Cochabamba,2250,Valles,Tecnología,Teléfonos,8417.964,1,0.1,175.15
+Mismo Día,Corporativo,Bolivia,Warnes,Santa Cruz,2463,Oriente,Suministros de Oficina,Grapadoras y Corte,148.24,7,0.15,-5.07
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,4397,Valles,Mobiliario,Sillas Ejecutivas,10126.03,2,0.1,375.06
+Estándar,Consumidor Final,Bolivia,Yacuiba,Tarija,1889,Valles,Suministros de Oficina,Papelería,59.48,2,0.0,3.39
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8637,Oriente,Tecnología,Laptops y Equipos,24310.44,4,0.15,-1.75
+Estándar,Pyme / Oficina,Bolivia,El Alto,La Paz,1675,Occidente,Tecnología,Impresoras y Escáneres,10324.583999999999,3,0.25,162.06
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3963,Oriente,Suministros de Oficina,Grapadoras y Corte,326.81,12,0.25,53.91
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,5761,Oriente,Tecnología,Laptops y Equipos,32418.335999999996,9,0.05,5108.29
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,3696,Valles,Tecnología,Teléfonos,9316.296,14,0.1,-441.9
+Primera Clase,Consumidor Final,Bolivia,Oruro,Oruro,6911,Occidente,Tecnología,Laptops y Equipos,54454.835999999996,12,0.25,-680.48
+Estándar,Pyme / Oficina,Bolivia,Tarija,Tarija,6292,Valles,Mobiliario,Escritorios,14745.89,12,0.15,3918.85
+Expreso,Corporativo,Bolivia,Yacuiba,Tarija,5096,Valles,Mobiliario,Sillas Ejecutivas,4879.55,12,0.15,57.44
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,5995,Oriente,Suministros de Oficina,Papelería,351.14,1,0.05,81.4
+Expreso,Consumidor Final,Bolivia,Oruro,Oruro,2750,Occidente,Mobiliario,Sillas Ejecutivas,1881.5,7,0.25,-8.53
+Mismo Día,Consumidor Final,Bolivia,Oruro,Oruro,1493,Occidente,Tecnología,Accesorios de Red,2212.248,12,0.25,469.88
+Primera Clase,Consumidor Final,Bolivia,Montero,Santa Cruz,6932,Oriente,Suministros de Oficina,Organizadores,985.6,11,0.0,328.88
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,1270,Oriente,Tecnología,Teléfonos,16653.84,1,0.2,3230.99
+Estándar,Consumidor Final,Bolivia,Sucre,Chuquisaca,4708,Valles,Mobiliario,Mesas de Reunión,9049.03,9,0.15,2229.39
+Expreso,Corporativo,Bolivia,Yacuiba,Tarija,5021,Valles,Mobiliario,Sillas Ejecutivas,8346.89,12,0.25,-226.46
+Estándar,Consumidor Final,Bolivia,Trinidad,Beni,4306,Oriente,Suministros de Oficina,Grapadoras y Corte,438.51,1,0.0,118.09
+Expreso,Consumidor Final,Bolivia,Quillacollo,Cochabamba,3727,Valles,Mobiliario,Sillas Ejecutivas,5968.2,10,0.15,719.97
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,7337,Oriente,Tecnología,Impresoras y Escáneres,2266.596,11,0.2,408.09
+Estándar,Pyme / Oficina,Bolivia,La Paz,La Paz,5615,Occidente,Suministros de Oficina,Cartuchos y Tinta,1826.14,13,0.1,561.35
+Primera Clase,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3538,Oriente,Suministros de Oficina,Papelería,100.08,5,0.15,3.67
+Estándar,Consumidor Final,Bolivia,Tarija,Tarija,3978,Valles,Suministros de Oficina,Cartuchos y Tinta,2778.13,8,0.05,884.65
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,7334,Valles,Suministros de Oficina,Cartuchos y Tinta,1721.05,9,0.2,56.95
+Estándar,Corporativo,Bolivia,Viacha,La Paz,2207,Occidente,Tecnología,Teléfonos,7146.8279999999995,9,0.25,1101.93
+Estándar,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,8972,Valles,Suministros de Oficina,Cartuchos y Tinta,1391.22,4,0.2,455.31
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,2912,Occidente,Tecnología,Laptops y Equipos,48692.112,3,0.05,9087.24
+Estándar,Corporativo,Bolivia,El Alto,La Paz,1687,Occidente,Suministros de Oficina,Cartuchos y Tinta,1198.25,3,0.15,-103.64
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,2757,Occidente,Suministros de Oficina,Papelería,518.29,4,0.1,85.14
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,5829,Valles,Suministros de Oficina,Cartuchos y Tinta,240.69,2,0.15,19.03
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,8272,Oriente,Mobiliario,Archivadores,2006.72,1,0.1,497.98
+Expreso,Consumidor Final,Bolivia,Warnes,Santa Cruz,6299,Oriente,Tecnología,Accesorios de Red,2717.604,5,0.05,771.09
+Expreso,Consumidor Final,Bolivia,Cobija,Pando,4036,Oriente,Tecnología,Accesorios de Red,1603.908,12,0.15,263.28
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,5656,Oriente,Tecnología,Accesorios de Red,3586.716,6,0.0,479.65
+Estándar,Corporativo,Bolivia,Yacuiba,Tarija,7487,Valles,Suministros de Oficina,Grapadoras y Corte,205.81,14,0.05,-6.79
+Estándar,Pyme / Oficina,Bolivia,Montero,Santa Cruz,5261,Oriente,Suministros de Oficina,Papelería,472.28,9,0.1,-15.68
+Estándar,Pyme / Oficina,Bolivia,Oruro,Oruro,1782,Occidente,Tecnología,Laptops y Equipos,17326.932,10,0.0,3713.93
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,5339,Oriente,Suministros de Oficina,Grapadoras y Corte,82.47,3,0.25,0.39
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,8942,Occidente,Tecnología,Impresoras y Escáneres,8753.243999999999,1,0.0,1819.38
+Estándar,Consumidor Final,Bolivia,Oruro,Oruro,8058,Occidente,Suministros de Oficina,Organizadores,94.24,10,0.2,9.25
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,4130,Occidente,Tecnología,Accesorios de Red,2378.652,11,0.05,146.81
+Estándar,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,7860,Valles,Tecnología,Teléfonos,6977.712,2,0.15,-69.93
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,2291,Valles,Suministros de Oficina,Papelería,298.99,9,0.2,101.59
+Expreso,Pyme / Oficina,Bolivia,Viacha,La Paz,2437,Occidente,Suministros de Oficina,Organizadores,631.73,10,0.1,184.45
+Estándar,Corporativo,Bolivia,El Alto,La Paz,3083,Occidente,Tecnología,Accesorios de Red,2153.016,4,0.15,154.12
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,2109,Oriente,Tecnología,Impresoras y Escáneres,2355.048,8,0.2,194.25
+Estándar,Consumidor Final,Bolivia,La Paz,La Paz,2145,Occidente,Suministros de Oficina,Papelería,191.93,12,0.1,61.69
+Estándar,Corporativo,Bolivia,Oruro,Oruro,4466,Occidente,Tecnología,Accesorios de Red,1081.884,3,0.15,113.69
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6497,Oriente,Tecnología,Teléfonos,3531.012,6,0.0,-281.66
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8545,Oriente,Suministros de Oficina,Cartuchos y Tinta,964.18,9,0.1,234.98
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,1277,Occidente,Mobiliario,Sillas Ejecutivas,7449.91,8,0.0,-371.03
+Expreso,Consumidor Final,Bolivia,Montero,Santa Cruz,1242,Oriente,Mobiliario,Escritorios,7590.97,3,0.1,1213.36
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6765,Oriente,Suministros de Oficina,Cartuchos y Tinta,3028.43,1,0.25,457.91
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,3218,Oriente,Suministros de Oficina,Organizadores,953.71,6,0.1,10.84
+Expreso,Corporativo,Bolivia,Quillacollo,Cochabamba,6636,Valles,Suministros de Oficina,Papelería,237.6,3,0.0,24.18
+Primera Clase,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4688,Oriente,Mobiliario,Mesas de Reunión,18524.92,14,0.0,-988.29
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,2426,Occidente,Suministros de Oficina,Organizadores,607.5,6,0.1,-43.04
+Primera Clase,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1761,Oriente,Tecnología,Accesorios de Red,1708.26,6,0.1,-114.98
+Estándar,Consumidor Final,Bolivia,Quillacollo,Cochabamba,2275,Valles,Mobiliario,Archivadores,5815.35,12,0.2,1937.76
+Estándar,Pyme / Oficina,Bolivia,El Alto,La Paz,7484,Occidente,Mobiliario,Archivadores,8047.47,3,0.2,404.56
+Primera Clase,Corporativo,Bolivia,Montero,Santa Cruz,5414,Oriente,Suministros de Oficina,Cartuchos y Tinta,1744.65,12,0.2,525.76
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,4916,Valles,Tecnología,Accesorios de Red,2692.5840000000003,13,0.1,231.12
+Estándar,Consumidor Final,Bolivia,Trinidad,Beni,4306,Oriente,Suministros de Oficina,Grapadoras y Corte,422.7,4,0.15,4.08
+Estándar,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8624,Oriente,Tecnología,Impresoras y Escáneres,13194.516,8,0.2,2777.45
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,4820,Valles,Mobiliario,Mesas de Reunión,6130.0,2,0.25,-593.39
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,3265,Oriente,Mobiliario,Sillas Ejecutivas,1671.92,3,0.0,-28.12
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,3939,Occidente,Suministros de Oficina,Grapadoras y Corte,231.93,4,0.05,2.74
+Expreso,Consumidor Final,Bolivia,Viacha,La Paz,2203,Occidente,Suministros de Oficina,Papelería,169.09,6,0.1,-13.58
+Expreso,Pyme / Oficina,Bolivia,Montero,Santa Cruz,7398,Oriente,Tecnología,Teléfonos,4078.86,9,0.05,-108.35
+Expreso,Corporativo,Bolivia,Cobija,Pando,8966,Oriente,Tecnología,Laptops y Equipos,41510.85599999999,9,0.2,8576.28
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1039,Oriente,Suministros de Oficina,Papelería,455.18,8,0.25,138.96
+Mismo Día,Consumidor Final,Bolivia,Quillacollo,Cochabamba,3296,Valles,Suministros de Oficina,Grapadoras y Corte,281.95,11,0.15,-18.93
+Expreso,Corporativo,Bolivia,Viacha,La Paz,2660,Occidente,Suministros de Oficina,Papelería,314.08,1,0.05,63.13
+Estándar,Corporativo,Bolivia,Yacuiba,Tarija,4765,Valles,Mobiliario,Archivadores,9774.17,14,0.2,2493.81
+Primera Clase,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,3576,Valles,Suministros de Oficina,Cartuchos y Tinta,530.11,12,0.0,85.35
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,4737,Oriente,Suministros de Oficina,Organizadores,627.27,1,0.15,103.28
+Mismo Día,Consumidor Final,Bolivia,Sacaba,Cochabamba,1053,Valles,Suministros de Oficina,Grapadoras y Corte,91.47,5,0.15,4.74
+Expreso,Consumidor Final,Bolivia,Yacuiba,Tarija,8486,Valles,Mobiliario,Archivadores,1989.44,8,0.15,120.67
+Primera Clase,Consumidor Final,Bolivia,Sacaba,Cochabamba,8537,Valles,Mobiliario,Mesas de Reunión,6745.0,9,0.05,-433.73
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,4932,Valles,Tecnología,Laptops y Equipos,43393.272,8,0.25,8370.7
+Expreso,Consumidor Final,Bolivia,Montero,Santa Cruz,4654,Oriente,Tecnología,Teléfonos,18426.672,11,0.15,4724.6
+Primera Clase,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2980,Oriente,Tecnología,Impresoras y Escáneres,11490.144,8,0.05,1076.11
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,5292,Valles,Suministros de Oficina,Organizadores,751.23,9,0.05,-65.93
+Estándar,Consumidor Final,Bolivia,La Paz,La Paz,8416,Occidente,Tecnología,Laptops y Equipos,37543.344,3,0.05,-1039.02
+Primera Clase,Corporativo,Bolivia,Warnes,Santa Cruz,1232,Oriente,Mobiliario,Sillas Ejecutivas,10055.14,13,0.1,1824.16
+Primera Clase,Consumidor Final,Bolivia,Oruro,Oruro,4039,Occidente,Tecnología,Accesorios de Red,4512.24,2,0.25,644.09
+Estándar,Corporativo,Bolivia,Cochabamba,Cochabamba,6775,Valles,Mobiliario,Escritorios,7677.59,7,0.2,-365.39
+Expreso,Consumidor Final,Bolivia,Cochabamba,Cochabamba,5324,Valles,Mobiliario,Mesas de Reunión,2731.05,6,0.1,327.08
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,3696,Valles,Tecnología,Teléfonos,9754.032,3,0.05,45.37
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,3367,Occidente,Suministros de Oficina,Cartuchos y Tinta,1484.57,7,0.25,-84.19
+Estándar,Consumidor Final,Bolivia,Trinidad,Beni,2377,Oriente,Mobiliario,Escritorios,10908.05,9,0.0,272.35
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,1428,Oriente,Tecnología,Teléfonos,8090.447999999999,5,0.0,-547.16
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,4633,Oriente,Tecnología,Accesorios de Red,1302.828,11,0.15,-0.14
+Mismo Día,Corporativo,Bolivia,Warnes,Santa Cruz,2463,Oriente,Suministros de Oficina,Grapadoras y Corte,118.52,14,0.15,37.73
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,7192,Occidente,Suministros de Oficina,Organizadores,565.94,5,0.05,109.82
+Estándar,Corporativo,Bolivia,El Alto,La Paz,4430,Occidente,Suministros de Oficina,Organizadores,1091.01,8,0.1,171.06
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,5829,Valles,Suministros de Oficina,Cartuchos y Tinta,253.75,12,0.2,-25.02
+Estándar,Corporativo,Bolivia,Viacha,La Paz,6745,Occidente,Mobiliario,Archivadores,2662.61,11,0.1,-105.04
+Expreso,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2019,Oriente,Tecnología,Teléfonos,8854.98,2,0.15,1188.65
+Expreso,Corporativo,Bolivia,Cobija,Pando,8966,Oriente,Tecnología,Laptops y Equipos,40030.439999999995,8,0.25,5873.92
+Expreso,Pyme / Oficina,Bolivia,Viacha,La Paz,2437,Occidente,Suministros de Oficina,Organizadores,636.06,5,0.0,122.87
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,3367,Occidente,Suministros de Oficina,Cartuchos y Tinta,1659.1,14,0.05,382.74
+Estándar,Consumidor Final,Bolivia,La Paz,La Paz,6652,Occidente,Mobiliario,Archivadores,9545.13,3,0.0,2219.62
+Estándar,Pyme / Oficina,Bolivia,Sucre,Chuquisaca,8929,Valles,Suministros de Oficina,Organizadores,325.05,8,0.05,17.98
+Estándar,Corporativo,Bolivia,La Paz,La Paz,1560,Occidente,Suministros de Oficina,Organizadores,737.07,7,0.2,199.3
+Mismo Día,Corporativo,Bolivia,La Paz,La Paz,8255,Occidente,Suministros de Oficina,Cartuchos y Tinta,343.97,13,0.25,112.56
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,6678,Valles,Suministros de Oficina,Organizadores,101.36,1,0.25,23.9
+Estándar,Consumidor Final,Bolivia,Potosí,Potosí,6958,Occidente,Tecnología,Teléfonos,1191.348,5,0.0,101.54
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,2912,Occidente,Tecnología,Laptops y Equipos,63004.596,5,0.2,549.07
+Expreso,Pyme / Oficina,Bolivia,Oruro,Oruro,8022,Occidente,Tecnología,Laptops y Equipos,25652.976,7,0.0,4734.73
+Estándar,Corporativo,Bolivia,El Alto,La Paz,8674,Occidente,Suministros de Oficina,Organizadores,521.89,2,0.0,31.23
+Estándar,Corporativo,Bolivia,El Alto,La Paz,2116,Occidente,Suministros de Oficina,Grapadoras y Corte,150.48,10,0.2,7.43
+Mismo Día,Corporativo,Bolivia,Montero,Santa Cruz,1306,Oriente,Tecnología,Laptops y Equipos,26462.148,1,0.15,-904.74
+Estándar,Corporativo,Bolivia,Trinidad,Beni,3844,Oriente,Mobiliario,Mesas de Reunión,2033.79,4,0.15,-37.25
+Estándar,Corporativo,Bolivia,Viacha,La Paz,6352,Occidente,Tecnología,Laptops y Equipos,24745.248,7,0.1,6959.03
+Expreso,Corporativo,Bolivia,Viacha,La Paz,2787,Occidente,Mobiliario,Mesas de Reunión,5030.53,4,0.15,1026.85
+Primera Clase,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,8930,Oriente,Suministros de Oficina,Papelería,207.14,8,0.15,57.83
+Mismo Día,Consumidor Final,Bolivia,Viacha,La Paz,1207,Occidente,Suministros de Oficina,Cartuchos y Tinta,769.54,13,0.2,41.41
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4552,Oriente,Tecnología,Impresoras y Escáneres,4234.884,6,0.2,8.2
+Expreso,Pyme / Oficina,Bolivia,Potosí,Potosí,2515,Occidente,Tecnología,Teléfonos,11083.608,11,0.2,-844.97
+Mismo Día,Corporativo,Bolivia,El Alto,La Paz,8336,Occidente,Suministros de Oficina,Cartuchos y Tinta,323.5,1,0.0,-3.82
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,1341,Valles,Mobiliario,Mesas de Reunión,14393.14,1,0.25,3659.1
+Expreso,Corporativo,Bolivia,Viacha,La Paz,2787,Occidente,Mobiliario,Mesas de Reunión,3982.88,14,0.1,-29.51
+Mismo Día,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6024,Oriente,Tecnología,Impresoras y Escáneres,9737.699999999999,13,0.15,1883.8
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3268,Oriente,Suministros de Oficina,Cartuchos y Tinta,1801.52,7,0.05,477.51
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,3970,Oriente,Tecnología,Accesorios de Red,4097.748,1,0.05,739.98
+Estándar,Corporativo,Bolivia,Viacha,La Paz,4076,Occidente,Suministros de Oficina,Organizadores,70.94,8,0.25,7.26
+Primera Clase,Consumidor Final,Bolivia,Montero,Santa Cruz,2915,Oriente,Mobiliario,Archivadores,9402.02,5,0.0,-636.32
+Expreso,Consumidor Final,Bolivia,Yacuiba,Tarija,3822,Valles,Suministros de Oficina,Cartuchos y Tinta,3372.69,8,0.25,-6.34
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,5114,Valles,Suministros de Oficina,Grapadoras y Corte,63.82,2,0.25,2.02
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2389,Oriente,Suministros de Oficina,Organizadores,545.48,1,0.1,110.22
+Estándar,Consumidor Final,Bolivia,Oruro,Oruro,2359,Occidente,Mobiliario,Sillas Ejecutivas,3182.42,2,0.0,718.16
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,1264,Oriente,Tecnología,Impresoras y Escáneres,13474.32,14,0.15,2650.13
+Expreso,Consumidor Final,Bolivia,Trinidad,Beni,8738,Oriente,Mobiliario,Sillas Ejecutivas,772.9,6,0.15,57.66
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8545,Oriente,Suministros de Oficina,Cartuchos y Tinta,1083.08,11,0.05,0.6
+Estándar,Corporativo,Bolivia,Sacaba,Cochabamba,8924,Valles,Mobiliario,Mesas de Reunión,17028.29,1,0.0,3840.08
+Estándar,Pyme / Oficina,Bolivia,Trinidad,Beni,6867,Oriente,Mobiliario,Archivadores,10510.88,3,0.15,2242.97
+Expreso,Consumidor Final,Bolivia,Cochabamba,Cochabamba,2941,Valles,Suministros de Oficina,Papelería,443.05,1,0.2,-9.72
+Estándar,Pyme / Oficina,Bolivia,Montero,Santa Cruz,1036,Oriente,Mobiliario,Archivadores,3045.12,7,0.05,-285.59
+Expreso,Pyme / Oficina,Bolivia,Montero,Santa Cruz,7010,Oriente,Suministros de Oficina,Organizadores,429.56,10,0.25,-30.87
+Expreso,Consumidor Final,Bolivia,Montero,Santa Cruz,4654,Oriente,Tecnología,Teléfonos,20404.775999999998,6,0.0,-480.34
+Expreso,Corporativo,Bolivia,Warnes,Santa Cruz,8372,Oriente,Mobiliario,Sillas Ejecutivas,8004.18,10,0.25,816.58
+Primera Clase,Consumidor Final,Bolivia,Cochabamba,Cochabamba,8785,Valles,Mobiliario,Sillas Ejecutivas,7878.35,8,0.1,1292.27
+Expreso,Consumidor Final,Bolivia,Sucre,Chuquisaca,1915,Valles,Tecnología,Laptops y Equipos,36439.452,3,0.05,-576.89
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,6158,Occidente,Mobiliario,Sillas Ejecutivas,5531.66,6,0.0,1444.13
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,5371,Oriente,Suministros de Oficina,Papelería,291.82,10,0.0,66.87
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6920,Oriente,Tecnología,Impresoras y Escáneres,7200.3,11,0.05,706.19
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,4092,Oriente,Tecnología,Teléfonos,9582.588,7,0.15,882.96
+Estándar,Consumidor Final,Bolivia,La Paz,La Paz,5297,Occidente,Tecnología,Laptops y Equipos,24742.019999999997,13,0.1,4934.17
+Estándar,Pyme / Oficina,Bolivia,La Paz,La Paz,1464,Occidente,Mobiliario,Sillas Ejecutivas,6755.43,11,0.1,609.52
+Primera Clase,Corporativo,Bolivia,Tarija,Tarija,7981,Valles,Suministros de Oficina,Papelería,52.61,8,0.25,7.66
+Expreso,Corporativo,Bolivia,Oruro,Oruro,6261,Occidente,Suministros de Oficina,Grapadoras y Corte,142.85,13,0.2,41.08
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6497,Oriente,Tecnología,Teléfonos,4252.596,5,0.1,426.32
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,7796,Occidente,Mobiliario,Escritorios,3937.96,5,0.0,-230.67
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,4751,Oriente,Suministros de Oficina,Organizadores,362.62,14,0.1,-8.83
+Estándar,Corporativo,Bolivia,Trinidad,Beni,2825,Oriente,Suministros de Oficina,Grapadoras y Corte,387.23,12,0.0,68.55
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,4186,Valles,Mobiliario,Escritorios,3183.71,1,0.2,-68.33
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,5505,Oriente,Tecnología,Laptops y Equipos,4960.704,3,0.0,897.92
+Primera Clase,Consumidor Final,Bolivia,Warnes,Santa Cruz,4083,Oriente,Tecnología,Laptops y Equipos,13788.636,1,0.2,-147.31
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,2499,Valles,Mobiliario,Mesas de Reunión,14150.58,7,0.25,-407.35
+Estándar,Corporativo,Bolivia,Montero,Santa Cruz,1760,Oriente,Tecnología,Impresoras y Escáneres,12046.704,4,0.05,212.44
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4926,Oriente,Tecnología,Laptops y Equipos,4263.612,6,0.0,-303.61
+Mismo Día,Consumidor Final,Bolivia,Warnes,Santa Cruz,4537,Oriente,Mobiliario,Mesas de Reunión,12512.48,14,0.15,434.19
+Estándar,Corporativo,Bolivia,La Paz,La Paz,6724,Occidente,Tecnología,Laptops y Equipos,4648.344,11,0.05,297.69
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1342,Oriente,Mobiliario,Escritorios,3135.53,2,0.25,832.63
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3446,Oriente,Suministros de Oficina,Grapadoras y Corte,364.77,10,0.05,0.85
+Estándar,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3739,Oriente,Mobiliario,Escritorios,12488.32,8,0.25,-553.44
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3594,Oriente,Tecnología,Teléfonos,7556.843999999999,9,0.05,132.44
+Estándar,Corporativo,Bolivia,El Alto,La Paz,8032,Occidente,Tecnología,Laptops y Equipos,48395.46,14,0.2,11780.6
+Expreso,Pyme / Oficina,Bolivia,Oruro,Oruro,3666,Occidente,Suministros de Oficina,Grapadoras y Corte,204.26,11,0.15,-1.04
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,2757,Occidente,Suministros de Oficina,Papelería,449.3,14,0.15,147.08
+Estándar,Corporativo,Bolivia,Montero,Santa Cruz,1672,Oriente,Suministros de Oficina,Grapadoras y Corte,169.35,2,0.25,16.19
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,8989,Occidente,Suministros de Oficina,Organizadores,766.47,4,0.05,259.83
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,4633,Oriente,Tecnología,Accesorios de Red,1077.6719999999998,11,0.2,-69.89
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,1965,Valles,Suministros de Oficina,Papelería,170.68,10,0.2,-14.79
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,2109,Oriente,Tecnología,Impresoras y Escáneres,2299.8959999999997,4,0.05,184.69
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,3752,Occidente,Mobiliario,Sillas Ejecutivas,5481.34,7,0.25,-28.45
+Primera Clase,Corporativo,Bolivia,Warnes,Santa Cruz,6371,Oriente,Tecnología,Impresoras y Escáneres,24047.927999999996,7,0.05,1139.55
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6929,Oriente,Tecnología,Impresoras y Escáneres,4813.643999999999,3,0.0,137.09
+Estándar,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,7860,Valles,Tecnología,Teléfonos,7090.139999999999,13,0.2,704.8
+Primera Clase,Pyme / Oficina,Bolivia,Montero,Santa Cruz,4170,Oriente,Tecnología,Teléfonos,4899.719999999999,2,0.05,964.39
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4836,Oriente,Suministros de Oficina,Papelería,244.78,8,0.25,-18.98
+Primera Clase,Corporativo,Bolivia,Montero,Santa Cruz,6666,Oriente,Suministros de Oficina,Papelería,316.89,7,0.05,-19.92
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,8548,Oriente,Mobiliario,Archivadores,950.15,2,0.2,77.8
+Primera Clase,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,6301,Valles,Tecnología,Laptops y Equipos,54124.248,3,0.05,7689.07
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,6834,Occidente,Suministros de Oficina,Cartuchos y Tinta,266.81,11,0.0,39.45
+Primera Clase,Pyme / Oficina,Bolivia,El Alto,La Paz,2753,Occidente,Mobiliario,Archivadores,4967.82,5,0.15,1569.65
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,8424,Oriente,Suministros de Oficina,Cartuchos y Tinta,1140.93,1,0.25,97.32
+Estándar,Pyme / Oficina,Bolivia,Montero,Santa Cruz,1716,Oriente,Tecnología,Accesorios de Red,4625.94,9,0.2,222.94
+Expreso,Corporativo,Bolivia,Oruro,Oruro,8862,Occidente,Suministros de Oficina,Organizadores,197.13,14,0.0,57.42
+Expreso,Consumidor Final,Bolivia,Viacha,La Paz,7200,Occidente,Mobiliario,Mesas de Reunión,24147.04,7,0.25,5697.56
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,7223,Valles,Mobiliario,Escritorios,1377.67,9,0.05,187.21
+Estándar,Pyme / Oficina,Bolivia,Cobija,Pando,7046,Oriente,Suministros de Oficina,Cartuchos y Tinta,2435.74,5,0.0,88.04
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,8640,Oriente,Tecnología,Teléfonos,15799.5,1,0.05,4320.68
+Estándar,Corporativo,Bolivia,Cochabamba,Cochabamba,5290,Valles,Tecnología,Accesorios de Red,3124.776,5,0.2,514.26
+Expreso,Consumidor Final,Bolivia,Cochabamba,Cochabamba,2941,Valles,Suministros de Oficina,Papelería,376.5,13,0.25,59.12
+Mismo Día,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6024,Oriente,Tecnología,Impresoras y Escáneres,13502.1,7,0.1,3200.92
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,7223,Valles,Mobiliario,Escritorios,1856.02,7,0.1,9.66
+Estándar,Pyme / Oficina,Bolivia,Oruro,Oruro,7441,Occidente,Suministros de Oficina,Grapadoras y Corte,299.29,4,0.25,-15.72
+Estándar,Corporativo,Bolivia,Quillacollo,Cochabamba,2550,Valles,Mobiliario,Archivadores,6216.08,4,0.25,814.69
+Primera Clase,Pyme / Oficina,Bolivia,Viacha,La Paz,8130,Occidente,Mobiliario,Sillas Ejecutivas,3898.32,11,0.1,-121.56
+Estándar,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,6789,Valles,Tecnología,Teléfonos,4797.984,8,0.1,-212.41
+Estándar,Consumidor Final,Bolivia,Quillacollo,Cochabamba,1058,Valles,Tecnología,Accesorios de Red,4280.567999999999,12,0.05,1212.98
+Expreso,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2019,Oriente,Tecnología,Teléfonos,8473.836,5,0.25,1104.96
+Estándar,Pyme / Oficina,Bolivia,Oruro,Oruro,5974,Occidente,Tecnología,Accesorios de Red,1887.4319999999998,2,0.25,104.97
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2434,Oriente,Tecnología,Accesorios de Red,2737.296,7,0.25,-3.62
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,4665,Occidente,Tecnología,Accesorios de Red,590.46,8,0.25,24.3
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,2793,Valles,Tecnología,Laptops y Equipos,5632.835999999999,13,0.05,340.01
+Estándar,Corporativo,Bolivia,El Alto,La Paz,4430,Occidente,Suministros de Oficina,Organizadores,990.66,13,0.2,-58.8
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,5188,Oriente,Mobiliario,Sillas Ejecutivas,7363.6,1,0.1,-545.06
+Expreso,Pyme / Oficina,Bolivia,Oruro,Oruro,8022,Occidente,Tecnología,Laptops y Equipos,34946.892,4,0.25,1023.48
+Estándar,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,8972,Valles,Suministros de Oficina,Cartuchos y Tinta,1262.57,9,0.15,80.65
+Expreso,Consumidor Final,Bolivia,Viacha,La Paz,5087,Occidente,Suministros de Oficina,Grapadoras y Corte,188.77,14,0.05,-7.06
+Expreso,Corporativo,Bolivia,La Paz,La Paz,5374,Occidente,Mobiliario,Sillas Ejecutivas,4320.65,6,0.15,191.08
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,1642,Occidente,Mobiliario,Archivadores,6639.58,3,0.0,2209.29
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,2741,Valles,Tecnología,Laptops y Equipos,30269.111999999997,2,0.05,-2137.4
+Primera Clase,Corporativo,Bolivia,Viacha,La Paz,6273,Occidente,Tecnología,Laptops y Equipos,35621.34,9,0.05,4162.2
+Estándar,Pyme / Oficina,Bolivia,Cochabamba,Cochabamba,2390,Valles,Suministros de Oficina,Papelería,438.24,9,0.1,-14.03
+Estándar,Pyme / Oficina,Bolivia,Montero,Santa Cruz,3917,Oriente,Mobiliario,Sillas Ejecutivas,9704.78,4,0.05,64.18
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,7976,Oriente,Mobiliario,Mesas de Reunión,16297.85,10,0.2,1974.94
+Estándar,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6796,Oriente,Tecnología,Teléfonos,12889.872,12,0.05,1929.22
+Estándar,Corporativo,Bolivia,Sucre,Chuquisaca,4659,Valles,Tecnología,Impresoras y Escáneres,7252.104,9,0.1,-448.9
+Estándar,Pyme / Oficina,Bolivia,Montero,Santa Cruz,6955,Oriente,Suministros de Oficina,Organizadores,486.24,2,0.05,166.4
+Primera Clase,Consumidor Final,Bolivia,Viacha,La Paz,6712,Occidente,Tecnología,Impresoras y Escáneres,23306.388000000003,2,0.05,346.88
+Estándar,Corporativo,Bolivia,Viacha,La Paz,1120,Occidente,Suministros de Oficina,Cartuchos y Tinta,2719.78,12,0.25,-179.21
+Expreso,Consumidor Final,Bolivia,El Alto,La Paz,7854,Occidente,Tecnología,Teléfonos,4056.048,9,0.15,-269.08
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,4092,Oriente,Tecnología,Teléfonos,9362.292,10,0.05,269.32
+Estándar,Corporativo,Bolivia,Cobija,Pando,6437,Oriente,Suministros de Oficina,Cartuchos y Tinta,3525.18,5,0.2,1075.2
+Expreso,Consumidor Final,Bolivia,Quillacollo,Cochabamba,7733,Valles,Tecnología,Accesorios de Red,1285.2839999999999,1,0.2,-84.84
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4488,Oriente,Tecnología,Laptops y Equipos,7187.28,2,0.0,1396.51
+Estándar,Corporativo,Bolivia,Sacaba,Cochabamba,6731,Valles,Tecnología,Teléfonos,3477.3360000000002,6,0.2,370.11
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4926,Oriente,Tecnología,Laptops y Equipos,5229.599999999999,14,0.2,827.24
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,3696,Valles,Tecnología,Teléfonos,10074.276,1,0.15,-479.7
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1660,Oriente,Tecnología,Accesorios de Red,3026.712,11,0.0,752.26
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4488,Oriente,Tecnología,Laptops y Equipos,6069.588,10,0.25,352.28
+Primera Clase,Corporativo,Bolivia,Warnes,Santa Cruz,2461,Oriente,Mobiliario,Escritorios,19197.71,7,0.05,-1733.05
+Primera Clase,Consumidor Final,Bolivia,Montero,Santa Cruz,7524,Oriente,Tecnología,Impresoras y Escáneres,10300.704,13,0.25,2762.84
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,8989,Occidente,Suministros de Oficina,Organizadores,1020.03,4,0.2,44.86
+Primera Clase,Pyme / Oficina,Bolivia,Viacha,La Paz,4963,Occidente,Mobiliario,Escritorios,6049.34,7,0.25,336.08
+Estándar,Corporativo,Bolivia,Quillacollo,Cochabamba,6070,Valles,Tecnología,Accesorios de Red,1127.1599999999999,13,0.25,262.31
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,8953,Oriente,Mobiliario,Sillas Ejecutivas,1877.98,10,0.15,580.47
+Estándar,Corporativo,Bolivia,Viacha,La Paz,6064,Occidente,Mobiliario,Archivadores,5408.51,2,0.2,1371.14
+Primera Clase,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1496,Oriente,Tecnología,Teléfonos,10836.948,6,0.25,-877.01
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,3970,Oriente,Tecnología,Accesorios de Red,4450.104,5,0.1,1041.45
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2884,Oriente,Suministros de Oficina,Papelería,49.8,10,0.05,8.28
+Mismo Día,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6740,Oriente,Tecnología,Accesorios de Red,1788.852,2,0.05,-42.17
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,1270,Oriente,Tecnología,Teléfonos,15189.744,5,0.05,2872.74
+Estándar,Consumidor Final,Bolivia,La Paz,La Paz,8740,Occidente,Suministros de Oficina,Organizadores,112.79,13,0.05,14.78
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,3217,Oriente,Mobiliario,Archivadores,9174.53,10,0.05,2442.51
+Expreso,Consumidor Final,Bolivia,Warnes,Santa Cruz,2384,Oriente,Tecnología,Accesorios de Red,2882.328,13,0.25,727.04
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,5114,Valles,Suministros de Oficina,Grapadoras y Corte,55.99,5,0.1,12.47
+Estándar,Corporativo,Bolivia,La Paz,La Paz,7283,Occidente,Mobiliario,Archivadores,4209.65,11,0.0,913.82
+Estándar,Pyme / Oficina,Bolivia,Cochabamba,Cochabamba,1467,Valles,Suministros de Oficina,Papelería,342.76,8,0.15,89.36
+Expreso,Pyme / Oficina,Bolivia,Oruro,Oruro,6299,Occidente,Tecnología,Impresoras y Escáneres,4712.196,14,0.1,696.04
+Primera Clase,Corporativo,Bolivia,Viacha,La Paz,6273,Occidente,Tecnología,Laptops y Equipos,27883.343999999997,1,0.1,-1976.33
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2884,Oriente,Suministros de Oficina,Papelería,44.44,9,0.05,-1.79
+Estándar,Consumidor Final,Bolivia,Potosí,Potosí,6958,Occidente,Tecnología,Teléfonos,1382.1719999999998,4,0.2,-45.07
+Estándar,Pyme / Oficina,Bolivia,Potosí,Potosí,8423,Occidente,Tecnología,Laptops y Equipos,38709.972,4,0.0,823.95
+Estándar,Corporativo,Bolivia,Oruro,Oruro,4573,Occidente,Tecnología,Accesorios de Red,2835.7439999999997,6,0.2,607.17
+Estándar,Corporativo,Bolivia,La Paz,La Paz,6186,Occidente,Tecnología,Teléfonos,8697.324,3,0.0,70.25
+Expreso,Consumidor Final,Bolivia,Viacha,La Paz,7739,Occidente,Tecnología,Teléfonos,11026.895999999999,12,0.2,555.25
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,1528,Occidente,Suministros de Oficina,Papelería,270.67,3,0.05,87.48
+Expreso,Consumidor Final,Bolivia,Warnes,Santa Cruz,3956,Oriente,Suministros de Oficina,Grapadoras y Corte,184.71,11,0.25,-10.22
+Expreso,Corporativo,Bolivia,Viacha,La Paz,2660,Occidente,Suministros de Oficina,Papelería,322.35,3,0.2,41.88
+Mismo Día,Consumidor Final,Bolivia,Tarija,Tarija,6079,Valles,Suministros de Oficina,Papelería,300.91,12,0.1,103.89
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,6045,Occidente,Suministros de Oficina,Cartuchos y Tinta,1598.84,5,0.2,352.74
+Estándar,Consumidor Final,Bolivia,Cobija,Pando,3777,Oriente,Tecnología,Impresoras y Escáneres,21916.632,14,0.05,3362.14
+Expreso,Consumidor Final,Bolivia,Trinidad,Beni,3575,Oriente,Tecnología,Teléfonos,11225.759999999998,12,0.05,2813.77
+Estándar,Consumidor Final,Bolivia,Tarija,Tarija,1331,Valles,Tecnología,Laptops y Equipos,28781.448,4,0.15,4171.04
+Expreso,Consumidor Final,Bolivia,Sucre,Chuquisaca,5857,Valles,Tecnología,Impresoras y Escáneres,22170.84,14,0.05,215.73
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,7796,Occidente,Mobiliario,Escritorios,3788.63,4,0.15,911.28
+Expreso,Consumidor Final,Bolivia,Oruro,Oruro,5925,Occidente,Suministros de Oficina,Organizadores,683.52,13,0.15,93.57
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,5587,Oriente,Mobiliario,Sillas Ejecutivas,2081.71,9,0.25,143.78
+Expreso,Pyme / Oficina,Bolivia,Oruro,Oruro,3666,Occidente,Suministros de Oficina,Grapadoras y Corte,227.8,10,0.25,-18.1
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4083,Oriente,Tecnología,Accesorios de Red,2752.2,7,0.05,175.06
+Estándar,Consumidor Final,Bolivia,La Paz,La Paz,4884,Occidente,Suministros de Oficina,Grapadoras y Corte,279.5,10,0.05,8.47
+Estándar,Corporativo,Bolivia,La Paz,La Paz,4880,Occidente,Tecnología,Teléfonos,1808.712,10,0.1,521.09
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,4820,Valles,Mobiliario,Mesas de Reunión,5206.91,7,0.1,1394.52
+Estándar,Consumidor Final,Bolivia,Oruro,Oruro,2359,Occidente,Mobiliario,Sillas Ejecutivas,2659.62,12,0.25,-146.21
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,5505,Oriente,Tecnología,Laptops y Equipos,4963.224,13,0.0,1340.53
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,8424,Oriente,Suministros de Oficina,Cartuchos y Tinta,1420.74,9,0.2,-91.98
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4488,Oriente,Tecnología,Laptops y Equipos,7341.648,7,0.15,343.45
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,6392,Oriente,Suministros de Oficina,Cartuchos y Tinta,1728.66,8,0.0,-145.6
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,4820,Valles,Mobiliario,Mesas de Reunión,5475.81,12,0.05,835.48
+Primera Clase,Corporativo,Bolivia,Quillacollo,Cochabamba,6492,Valles,Mobiliario,Escritorios,1544.34,5,0.15,303.97
+Expreso,Corporativo,Bolivia,Sacaba,Cochabamba,5297,Valles,Suministros de Oficina,Papelería,94.61,5,0.15,8.68
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,5760,Oriente,Tecnología,Laptops y Equipos,35575.968,11,0.2,6486.94
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8313,Oriente,Suministros de Oficina,Organizadores,398.73,14,0.2,4.69
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,1731,Oriente,Mobiliario,Sillas Ejecutivas,2503.31,13,0.15,589.44
+Primera Clase,Consumidor Final,Bolivia,Warnes,Santa Cruz,4083,Oriente,Tecnología,Laptops y Equipos,12948.083999999999,1,0.05,2864.51
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,8692,Oriente,Tecnología,Laptops y Equipos,18583.764,9,0.15,1980.96
+Estándar,Corporativo,Bolivia,La Paz,La Paz,3822,Occidente,Mobiliario,Archivadores,9686.07,11,0.0,-237.58
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,3264,Oriente,Mobiliario,Mesas de Reunión,15808.89,6,0.0,1157.1
+Estándar,Pyme / Oficina,Bolivia,Sucre,Chuquisaca,5522,Valles,Suministros de Oficina,Cartuchos y Tinta,597.43,8,0.25,109.47
+Primera Clase,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,6770,Valles,Tecnología,Teléfonos,12465.336000000001,6,0.25,322.93
+Expreso,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3494,Oriente,Suministros de Oficina,Papelería,110.92,13,0.0,28.61
+Estándar,Corporativo,Bolivia,La Paz,La Paz,7283,Occidente,Mobiliario,Archivadores,4118.84,3,0.05,-128.71
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,2525,Oriente,Tecnología,Teléfonos,1972.224,4,0.1,-148.68
+Estándar,Consumidor Final,Bolivia,La Paz,La Paz,6100,Occidente,Tecnología,Accesorios de Red,3816.1919999999996,4,0.1,-6.22
+Expreso,Consumidor Final,Bolivia,Tarija,Tarija,3000,Valles,Tecnología,Impresoras y Escáneres,21271.38,6,0.0,5161.91
+Estándar,Consumidor Final,Bolivia,Sucre,Chuquisaca,3888,Valles,Suministros de Oficina,Grapadoras y Corte,135.79,6,0.1,44.59
+Expreso,Consumidor Final,Bolivia,Trinidad,Beni,3575,Oriente,Tecnología,Teléfonos,9179.975999999999,1,0.25,546.5
+Primera Clase,Consumidor Final,Bolivia,Warnes,Santa Cruz,3693,Oriente,Tecnología,Teléfonos,8947.26,4,0.05,1950.35
+Primera Clase,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1496,Oriente,Tecnología,Teléfonos,13232.076,8,0.1,-562.71
+Estándar,Pyme / Oficina,Bolivia,Oruro,Oruro,7743,Occidente,Tecnología,Accesorios de Red,3436.3439999999996,12,0.15,-222.11
+Primera Clase,Consumidor Final,Bolivia,Cochabamba,Cochabamba,7769,Valles,Mobiliario,Escritorios,1666.85,13,0.1,349.54
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,2741,Valles,Tecnología,Laptops y Equipos,36389.736,11,0.2,7925.03
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6081,Oriente,Mobiliario,Mesas de Reunión,7175.23,12,0.2,154.28
+Estándar,Corporativo,Bolivia,Sacaba,Cochabamba,5157,Valles,Tecnología,Accesorios de Red,2508.12,4,0.15,255.9
+Estándar,Corporativo,Bolivia,La Paz,La Paz,6430,Occidente,Tecnología,Impresoras y Escáneres,17698.956,7,0.15,-116.07
+Estándar,Corporativo,Bolivia,Potosí,Potosí,8852,Occidente,Tecnología,Laptops y Equipos,38019.731999999996,4,0.25,2394.63
+Primera Clase,Consumidor Final,Bolivia,El Alto,La Paz,8102,Occidente,Mobiliario,Sillas Ejecutivas,6618.81,1,0.0,1961.75
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,8631,Valles,Suministros de Oficina,Organizadores,926.62,11,0.15,-48.34
+Estándar,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,6789,Valles,Tecnología,Teléfonos,3586.14,1,0.05,785.98
+Expreso,Pyme / Oficina,Bolivia,Oruro,Oruro,8022,Occidente,Tecnología,Laptops y Equipos,28405.764,3,0.0,3710.84
+Estándar,Corporativo,Bolivia,Yacuiba,Tarija,1080,Valles,Mobiliario,Sillas Ejecutivas,9106.18,11,0.25,2927.24
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,5997,Oriente,Tecnología,Teléfonos,9656.279999999999,3,0.05,646.7
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,8989,Occidente,Suministros de Oficina,Organizadores,991.83,10,0.15,111.16
+Estándar,Corporativo,Bolivia,Sacaba,Cochabamba,3881,Valles,Tecnología,Teléfonos,15799.344000000001,11,0.15,4329.32
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2864,Oriente,Mobiliario,Archivadores,5032.19,12,0.2,85.87
+Estándar,Consumidor Final,Bolivia,Quillacollo,Cochabamba,5403,Valles,Suministros de Oficina,Grapadoras y Corte,249.97,1,0.1,-1.05
+Primera Clase,Consumidor Final,Bolivia,Warnes,Santa Cruz,1799,Oriente,Mobiliario,Sillas Ejecutivas,1947.58,13,0.15,67.61
+Primera Clase,Consumidor Final,Bolivia,Oruro,Oruro,6911,Occidente,Tecnología,Laptops y Equipos,43162.176,2,0.05,4809.83
+Estándar,Consumidor Final,Bolivia,Quillacollo,Cochabamba,5567,Valles,Suministros de Oficina,Organizadores,1093.71,12,0.05,45.51
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,4633,Oriente,Tecnología,Accesorios de Red,1155.3239999999998,13,0.1,332.78
+Expreso,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3169,Oriente,Mobiliario,Mesas de Reunión,12142.85,2,0.05,459.96
+Estándar,Consumidor Final,Bolivia,Cochabamba,Cochabamba,7270,Valles,Tecnología,Impresoras y Escáneres,11436.251999999999,13,0.15,-820.68
+Estándar,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,6789,Valles,Tecnología,Teléfonos,4169.652,2,0.25,601.64
+Primera Clase,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,3576,Valles,Suministros de Oficina,Cartuchos y Tinta,753.57,6,0.1,226.08
+Mismo Día,Consumidor Final,Bolivia,El Alto,La Paz,5819,Occidente,Suministros de Oficina,Papelería,362.75,5,0.15,126.58
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,7711,Oriente,Mobiliario,Escritorios,11022.23,9,0.15,2999.5
+Expreso,Consumidor Final,Bolivia,Oruro,Oruro,1793,Occidente,Mobiliario,Sillas Ejecutivas,1753.14,12,0.0,307.31
+Estándar,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,5262,Oriente,Tecnología,Teléfonos,5075.256,11,0.25,-138.45
+Estándar,Pyme / Oficina,Bolivia,Cobija,Pando,7840,Oriente,Tecnología,Teléfonos,8234.208,14,0.25,1835.02
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,3591,Occidente,Tecnología,Laptops y Equipos,42723.24,4,0.25,11188.8
+Estándar,Corporativo,Bolivia,Sacaba,Cochabamba,6935,Valles,Suministros de Oficina,Grapadoras y Corte,418.16,7,0.0,58.62
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,6327,Oriente,Suministros de Oficina,Organizadores,945.13,9,0.25,-35.09
+Mismo Día,Consumidor Final,Bolivia,Quillacollo,Cochabamba,1922,Valles,Mobiliario,Escritorios,4600.18,14,0.2,1297.39
+Mismo Día,Corporativo,Bolivia,Sacaba,Cochabamba,1723,Valles,Suministros de Oficina,Cartuchos y Tinta,3070.44,5,0.05,888.8
+Expreso,Corporativo,Bolivia,Quillacollo,Cochabamba,8790,Valles,Suministros de Oficina,Organizadores,329.26,14,0.25,83.3
+Expreso,Corporativo,Bolivia,Sucre,Chuquisaca,6741,Valles,Suministros de Oficina,Papelería,254.29,8,0.15,-8.49
+Estándar,Corporativo,Bolivia,Montero,Santa Cruz,8025,Oriente,Tecnología,Impresoras y Escáneres,13167.648000000001,7,0.25,2047.67
+Primera Clase,Consumidor Final,Bolivia,Montero,Santa Cruz,4790,Oriente,Suministros de Oficina,Cartuchos y Tinta,3083.04,3,0.15,783.69
+Expreso,Pyme / Oficina,Bolivia,Oruro,Oruro,3666,Occidente,Suministros de Oficina,Grapadoras y Corte,185.52,4,0.0,-3.06
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,5339,Oriente,Suministros de Oficina,Grapadoras y Corte,100.84,13,0.25,2.34
+Expreso,Consumidor Final,Bolivia,Trinidad,Beni,8738,Oriente,Mobiliario,Sillas Ejecutivas,944.61,5,0.15,160.71
+Estándar,Corporativo,Bolivia,Viacha,La Paz,6064,Occidente,Mobiliario,Archivadores,6331.97,2,0.05,1790.46
+Primera Clase,Consumidor Final,Bolivia,El Alto,La Paz,8102,Occidente,Mobiliario,Sillas Ejecutivas,7169.12,4,0.1,-541.41
+Estándar,Corporativo,Bolivia,Yacuiba,Tarija,7487,Valles,Suministros de Oficina,Grapadoras y Corte,182.55,5,0.2,52.32
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,2536,Occidente,Mobiliario,Mesas de Reunión,20245.93,3,0.05,1566.82
+Estándar,Corporativo,Bolivia,Cochabamba,Cochabamba,6704,Valles,Mobiliario,Sillas Ejecutivas,4631.77,4,0.25,1105.76
+Estándar,Pyme / Oficina,Bolivia,La Paz,La Paz,4705,Occidente,Tecnología,Accesorios de Red,4577.987999999999,11,0.15,-283.8
+Estándar,Pyme / Oficina,Bolivia,La Paz,La Paz,5615,Occidente,Suministros de Oficina,Cartuchos y Tinta,2384.09,14,0.15,154.88
+Estándar,Pyme / Oficina,Bolivia,Cobija,Pando,2458,Oriente,Suministros de Oficina,Organizadores,814.84,1,0.25,253.37
+Estándar,Corporativo,Bolivia,Sacaba,Cochabamba,2329,Valles,Mobiliario,Mesas de Reunión,6617.39,14,0.25,1528.26
+Estándar,Consumidor Final,Bolivia,Sucre,Chuquisaca,3016,Valles,Suministros de Oficina,Cartuchos y Tinta,892.98,3,0.0,176.33
+Estándar,Pyme / Oficina,Bolivia,La Paz,La Paz,6897,Occidente,Tecnología,Impresoras y Escáneres,23074.248,4,0.0,6585.74
+Primera Clase,Pyme / Oficina,Bolivia,Tarija,Tarija,2719,Valles,Tecnología,Impresoras y Escáneres,14972.916,12,0.0,3410.27
+Estándar,Pyme / Oficina,Bolivia,Cobija,Pando,2458,Oriente,Suministros de Oficina,Organizadores,729.27,2,0.1,39.63
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,7355,Oriente,Suministros de Oficina,Papelería,38.33,4,0.2,7.05
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,7999,Oriente,Tecnología,Laptops y Equipos,22831.007999999998,14,0.15,5302.76
+Expreso,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,5846,Oriente,Tecnología,Teléfonos,1605.6,1,0.15,114.31
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,5796,Occidente,Tecnología,Accesorios de Red,2884.02,13,0.0,-198.09
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,6109,Occidente,Suministros de Oficina,Organizadores,448.89,4,0.0,-40.02
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,3696,Valles,Tecnología,Teléfonos,8534.496,3,0.15,1525.37
+Expreso,Pyme / Oficina,Bolivia,Viacha,La Paz,7454,Occidente,Suministros de Oficina,Cartuchos y Tinta,1466.45,2,0.1,452.08
+Mismo Día,Consumidor Final,Bolivia,Quillacollo,Cochabamba,6987,Valles,Mobiliario,Escritorios,12659.11,9,0.25,-833.1
+Expreso,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1770,Oriente,Tecnología,Laptops y Equipos,28615.056,10,0.15,743.63
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8545,Oriente,Suministros de Oficina,Cartuchos y Tinta,1039.16,13,0.1,-103.25
+Estándar,Corporativo,Bolivia,Warnes,Santa Cruz,3223,Oriente,Suministros de Oficina,Cartuchos y Tinta,2711.39,4,0.15,153.73
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,2649,Valles,Tecnología,Impresoras y Escáneres,21545.028,4,0.0,1247.35
+Estándar,Corporativo,Bolivia,Potosí,Potosí,5228,Occidente,Mobiliario,Mesas de Reunión,9169.98,12,0.1,682.91
+Estándar,Consumidor Final,Bolivia,El Alto,La Paz,5747,Occidente,Mobiliario,Mesas de Reunión,4166.47,4,0.2,978.42
+Estándar,Consumidor Final,Bolivia,Potosí,Potosí,5462,Occidente,Suministros de Oficina,Grapadoras y Corte,44.14,6,0.15,15.16
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,7999,Oriente,Tecnología,Laptops y Equipos,27662.532,10,0.2,6321.28
+Estándar,Pyme / Oficina,Bolivia,La Paz,La Paz,6119,Occidente,Suministros de Oficina,Papelería,430.12,14,0.15,-6.65
+Primera Clase,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,8876,Oriente,Mobiliario,Archivadores,1539.6,5,0.15,233.6
+Expreso,Corporativo,Bolivia,Potosí,Potosí,3550,Occidente,Tecnología,Accesorios de Red,970.4159999999999,8,0.05,273.26
+Expreso,Pyme / Oficina,Bolivia,Potosí,Potosí,3529,Occidente,Tecnología,Teléfonos,10388.963999999998,12,0.0,2407.25
+Primera Clase,Corporativo,Bolivia,Montero,Santa Cruz,5414,Oriente,Suministros de Oficina,Cartuchos y Tinta,2369.3,8,0.0,-106.93
+Mismo Día,Consumidor Final,Bolivia,Potosí,Potosí,8351,Occidente,Mobiliario,Mesas de Reunión,6901.67,1,0.15,2262.93
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,8630,Occidente,Suministros de Oficina,Cartuchos y Tinta,2135.03,13,0.15,430.08
+Estándar,Corporativo,Bolivia,Quillacollo,Cochabamba,6070,Valles,Tecnología,Accesorios de Red,1075.164,7,0.05,97.57
+Estándar,Pyme / Oficina,Bolivia,El Alto,La Paz,5508,Occidente,Suministros de Oficina,Papelería,92.09,7,0.0,-2.74
+Estándar,Consumidor Final,Bolivia,Viacha,La Paz,8989,Occidente,Suministros de Oficina,Organizadores,729.9,4,0.15,-26.38
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,8247,Valles,Mobiliario,Archivadores,9793.03,8,0.25,984.31
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3617,Oriente,Mobiliario,Escritorios,15650.41,6,0.2,5088.94
+Estándar,Consumidor Final,Bolivia,Oruro,Oruro,3729,Occidente,Tecnología,Teléfonos,3876.1919999999996,7,0.25,710.62
+Estándar,Consumidor Final,Bolivia,Tarija,Tarija,5349,Valles,Tecnología,Teléfonos,11211.492,4,0.25,442.84
+Mismo Día,Consumidor Final,Bolivia,Warnes,Santa Cruz,3142,Oriente,Mobiliario,Mesas de Reunión,7954.21,13,0.1,2240.22
+Estándar,Corporativo,Bolivia,La Paz,La Paz,7929,Occidente,Suministros de Oficina,Cartuchos y Tinta,238.69,2,0.2,-0.0
+Estándar,Pyme / Oficina,Bolivia,Cochabamba,Cochabamba,7531,Valles,Tecnología,Laptops y Equipos,6491.352,12,0.05,641.86
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,1444,Valles,Tecnología,Laptops y Equipos,47431.272,8,0.25,3460.88
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8741,Oriente,Suministros de Oficina,Papelería,399.72,7,0.05,-24.26
+Estándar,Consumidor Final,Bolivia,Sucre,Chuquisaca,7333,Valles,Mobiliario,Sillas Ejecutivas,4831.81,13,0.0,-388.3
+Primera Clase,Pyme / Oficina,Bolivia,Quillacollo,Cochabamba,3575,Valles,Suministros de Oficina,Organizadores,1045.53,3,0.15,-99.55
+Estándar,Corporativo,Bolivia,Montero,Santa Cruz,8507,Oriente,Tecnología,Impresoras y Escáneres,19567.908,12,0.2,-528.62
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1442,Oriente,Suministros de Oficina,Organizadores,90.3,8,0.2,12.3
+Primera Clase,Corporativo,Bolivia,Warnes,Santa Cruz,1232,Oriente,Mobiliario,Sillas Ejecutivas,8822.42,4,0.25,1796.49
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,6399,Oriente,Tecnología,Laptops y Equipos,10409.52,13,0.0,2964.75
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,1660,Oriente,Tecnología,Accesorios de Red,4229.544,13,0.15,912.99
+Expreso,Corporativo,Bolivia,Montero,Santa Cruz,2382,Oriente,Mobiliario,Archivadores,2238.34,6,0.2,764.26
+Estándar,Consumidor Final,Bolivia,Tarija,Tarija,5349,Valles,Tecnología,Teléfonos,14535.192,11,0.05,-926.33
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8044,Oriente,Mobiliario,Escritorios,11472.29,12,0.0,2619.8
+Estándar,Corporativo,Bolivia,Montero,Santa Cruz,1854,Oriente,Suministros de Oficina,Cartuchos y Tinta,2597.25,2,0.05,-172.01
+Primera Clase,Consumidor Final,Bolivia,Viacha,La Paz,7724,Occidente,Tecnología,Impresoras y Escáneres,16179.744,3,0.2,4021.17
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,4665,Occidente,Tecnología,Accesorios de Red,592.608,2,0.0,105.08
+Estándar,Consumidor Final,Bolivia,Tarija,Tarija,5511,Valles,Mobiliario,Sillas Ejecutivas,2239.82,8,0.1,402.27
+Estándar,Pyme / Oficina,Bolivia,Montero,Santa Cruz,7348,Oriente,Tecnología,Accesorios de Red,2682.216,12,0.0,-91.79
+Estándar,Corporativo,Bolivia,El Alto,La Paz,4702,Occidente,Tecnología,Impresoras y Escáneres,7078.392,14,0.0,1729.83
+Estándar,Consumidor Final,Bolivia,Montero,Santa Cruz,7999,Oriente,Tecnología,Laptops y Equipos,28863.324,12,0.05,8025.07
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,3538,Oriente,Tecnología,Accesorios de Red,4723.116,13,0.0,230.84
+Primera Clase,Pyme / Oficina,Bolivia,Sacaba,Cochabamba,3866,Valles,Mobiliario,Mesas de Reunión,2815.23,14,0.2,841.34
+Estándar,Corporativo,Bolivia,Montero,Santa Cruz,7347,Oriente,Tecnología,Accesorios de Red,1125.888,10,0.05,217.9
+Primera Clase,Consumidor Final,Bolivia,Cochabamba,Cochabamba,8046,Valles,Mobiliario,Archivadores,6341.88,11,0.05,1761.4
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,3696,Valles,Tecnología,Teléfonos,8946.072,13,0.0,108.35
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2487,Oriente,Mobiliario,Archivadores,1977.72,10,0.05,207.73
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,5371,Oriente,Suministros de Oficina,Papelería,350.7,14,0.05,57.43
+Estándar,Pyme / Oficina,Bolivia,Viacha,La Paz,7436,Occidente,Tecnología,Impresoras y Escáneres,10668.204,7,0.05,-274.26
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,6575,Valles,Mobiliario,Escritorios,6305.21,5,0.1,1436.94
+Estándar,Corporativo,Bolivia,La Paz,La Paz,3303,Occidente,Mobiliario,Escritorios,8947.69,9,0.25,725.02
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,8741,Oriente,Suministros de Oficina,Papelería,410.89,9,0.2,134.63
+Estándar,Corporativo,Bolivia,Cobija,Pando,5181,Oriente,Suministros de Oficina,Grapadoras y Corte,79.93,14,0.2,2.5
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,5114,Oriente,Mobiliario,Escritorios,3940.66,9,0.25,1305.73
+Expreso,Consumidor Final,Bolivia,Tarija,Tarija,8238,Valles,Suministros de Oficina,Cartuchos y Tinta,1010.08,3,0.1,299.72
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,6353,Oriente,Mobiliario,Archivadores,885.13,2,0.25,237.62
+Expreso,Consumidor Final,Bolivia,Viacha,La Paz,5087,Occidente,Suministros de Oficina,Grapadoras y Corte,192.59,9,0.0,55.4
+Estándar,Pyme / Oficina,Bolivia,El Alto,La Paz,1675,Occidente,Tecnología,Impresoras y Escáneres,11011.932,11,0.2,1978.27
+Estándar,Corporativo,Bolivia,Santa Cruz de la Sierra,Santa Cruz,4488,Oriente,Tecnología,Laptops y Equipos,7518.299999999999,8,0.0,279.0
+Expreso,Consumidor Final,Bolivia,Sacaba,Cochabamba,7852,Valles,Suministros de Oficina,Organizadores,780.14,8,0.25,-13.62
+Estándar,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,5262,Oriente,Tecnología,Teléfonos,5906.099999999999,3,0.25,691.06
+Primera Clase,Consumidor Final,Bolivia,Warnes,Santa Cruz,8967,Oriente,Suministros de Oficina,Cartuchos y Tinta,1485.9,6,0.05,2.64
+Expreso,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,5673,Oriente,Tecnología,Impresoras y Escáneres,16105.008,6,0.25,4339.46
+Estándar,Pyme / Oficina,Bolivia,Potosí,Potosí,8423,Occidente,Tecnología,Laptops y Equipos,41648.46,13,0.25,9319.57
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,1071,Valles,Tecnología,Teléfonos,9013.884,12,0.25,497.23
+Estándar,Pyme / Oficina,Bolivia,Montero,Santa Cruz,5261,Oriente,Suministros de Oficina,Papelería,459.9,14,0.05,84.9
+Primera Clase,Pyme / Oficina,Bolivia,La Paz,La Paz,1007,Occidente,Suministros de Oficina,Cartuchos y Tinta,2476.82,6,0.05,219.23
+Expreso,Pyme / Oficina,Bolivia,La Paz,La Paz,8388,Occidente,Tecnología,Laptops y Equipos,6111.143999999999,10,0.0,1270.52
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,4718,Oriente,Mobiliario,Sillas Ejecutivas,4901.44,7,0.0,444.18
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,2291,Valles,Suministros de Oficina,Papelería,279.65,11,0.0,9.3
+Estándar,Consumidor Final,Bolivia,Warnes,Santa Cruz,2699,Oriente,Mobiliario,Sillas Ejecutivas,8569.21,2,0.05,98.52
+Estándar,Consumidor Final,Bolivia,Santa Cruz de la Sierra,Santa Cruz,7959,Oriente,Suministros de Oficina,Cartuchos y Tinta,1804.97,7,0.15,432.2
+Estándar,Corporativo,Bolivia,Yacuiba,Tarija,4765,Valles,Mobiliario,Archivadores,12647.78,11,0.1,2502.83
+Expreso,Consumidor Final,Bolivia,Montero,Santa Cruz,1242,Oriente,Mobiliario,Escritorios,5686.96,12,0.15,-340.97
+Primera Clase,Consumidor Final,Bolivia,Sucre,Chuquisaca,7826,Valles,Suministros de Oficina,Organizadores,789.66,4,0.2,216.3
+Estándar,Pyme / Oficina,Bolivia,Santa Cruz de la Sierra,Santa Cruz,2673,Oriente,Tecnología,Teléfonos,8435.772,9,0.25,2286.13
+Estándar,Pyme / Oficina,Bolivia,La Paz,La Paz,6555,Occidente,Mobiliario,Escritorios,12919.66,10,0.2,4218.12
+Primera Clase,Corporativo,Bolivia,Quillacollo,Cochabamba,6492,Valles,Mobiliario,Escritorios,1636.61,10,0.2,440.88
+Primera Clase,Consumidor Final,Bolivia,Warnes,Santa Cruz,1799,Oriente,Mobiliario,Sillas Ejecutivas,1824.37,9,0.05,23.16
+Estándar,Consumidor Final,Bolivia,Oruro,Oruro,1233,Occidente,Mobiliario,Mesas de Reunión,21585.38,5,0.0,-399.93
+Estándar,Consumidor Final,Bolivia,Sacaba,Cochabamba,3515,Valles,Suministros de Oficina,Grapadoras y Corte,120.61,8,0.2,18.64
+Expreso,Consumidor Final,Bolivia,Warnes,Santa Cruz,3956,Oriente,Suministros de Oficina,Grapadoras y Corte,222.29,11,0.2,57.86
+Primera Clase,Consumidor Final,Bolivia,Warnes,Santa Cruz,8967,Oriente,Suministros de Oficina,Cartuchos y Tinta,1196.75,11,0.15,34.48
+Estándar,Pyme / Oficina,Bolivia,Warnes,Santa Cruz,2555,Oriente,Mobiliario,Mesas de Reunión,25908.12,1,0.1,5999.67
+Estándar,Corporativo,Bolivia,Sucre,Chuquisaca,2369,Valles,Tecnología,Accesorios de Red,4447.62,10,0.25,976.8
+Expreso,Consumidor Final,Bolivia,La Paz,La Paz,7838,Occidente,Suministros de Oficina,Cartuchos y Tinta,2099.15,5,0.25,105.84
+Mismo Día,Consumidor Final,Bolivia,Sacaba,Cochabamba,1053,Valles,Suministros de Oficina,Grapadoras y Corte,100.63,9,0.0,17.9
+Expreso,Consumidor Final,Bolivia,Oruro,Oruro,5350,Occidente,Tecnología,Impresoras y Escáneres,17276.688,5,0.25,2568.53
