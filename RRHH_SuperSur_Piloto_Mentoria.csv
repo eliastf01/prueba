@@ -1,0 +1,85 @@
+area,mes,grupo,periodo,plantilla,retiros
+Ventas,2025-07,Piloto,Antes,211,4
+Ventas,2025-08,Piloto,Antes,207,4
+Ventas,2025-09,Piloto,Antes,204,5
+Ventas,2025-10,Piloto,Antes,212,3
+Ventas,2025-11,Piloto,Antes,213,4
+Ventas,2025-12,Piloto,Antes,207,3
+Ventas,2026-01,Piloto,Después,204,1
+Ventas,2026-02,Piloto,Después,210,4
+Ventas,2026-03,Piloto,Después,210,5
+Ventas,2026-04,Piloto,Después,207,4
+Ventas,2026-05,Piloto,Después,209,2
+Ventas,2026-06,Piloto,Después,206,4
+Atención al Cliente,2025-07,Piloto,Antes,151,2
+Atención al Cliente,2025-08,Piloto,Antes,156,5
+Atención al Cliente,2025-09,Piloto,Antes,150,3
+Atención al Cliente,2025-10,Piloto,Antes,156,4
+Atención al Cliente,2025-11,Piloto,Antes,155,2
+Atención al Cliente,2025-12,Piloto,Antes,151,4
+Atención al Cliente,2026-01,Piloto,Después,155,2
+Atención al Cliente,2026-02,Piloto,Después,156,2
+Atención al Cliente,2026-03,Piloto,Después,157,2
+Atención al Cliente,2026-04,Piloto,Después,155,2
+Atención al Cliente,2026-05,Piloto,Después,156,1
+Atención al Cliente,2026-06,Piloto,Después,150,3
+Operaciones y Logística,2025-07,Control,Antes,237,4
+Operaciones y Logística,2025-08,Control,Antes,242,4
+Operaciones y Logística,2025-09,Control,Antes,231,3
+Operaciones y Logística,2025-10,Control,Antes,241,3
+Operaciones y Logística,2025-11,Control,Antes,238,3
+Operaciones y Logística,2025-12,Control,Antes,238,2
+Operaciones y Logística,2026-01,Control,Después,231,3
+Operaciones y Logística,2026-02,Control,Después,240,1
+Operaciones y Logística,2026-03,Control,Después,237,4
+Operaciones y Logística,2026-04,Control,Después,240,2
+Operaciones y Logística,2026-05,Control,Después,234,3
+Operaciones y Logística,2026-06,Control,Después,235,1
+Administración y Finanzas,2025-07,Control,Antes,130,3
+Administración y Finanzas,2025-08,Control,Antes,130,3
+Administración y Finanzas,2025-09,Control,Antes,133,2
+Administración y Finanzas,2025-10,Control,Antes,133,1
+Administración y Finanzas,2025-11,Control,Antes,130,1
+Administración y Finanzas,2025-12,Control,Antes,131,0
+Administración y Finanzas,2026-01,Control,Después,129,1
+Administración y Finanzas,2026-02,Control,Después,133,1
+Administración y Finanzas,2026-03,Control,Después,129,2
+Administración y Finanzas,2026-04,Control,Después,127,1
+Administración y Finanzas,2026-05,Control,Después,130,2
+Administración y Finanzas,2026-06,Control,Después,132,3
+Tecnología,2025-07,Control,Antes,84,1
+Tecnología,2025-08,Control,Antes,83,1
+Tecnología,2025-09,Control,Antes,83,1
+Tecnología,2025-10,Control,Antes,83,1
+Tecnología,2025-11,Control,Antes,83,2
+Tecnología,2025-12,Control,Antes,83,0
+Tecnología,2026-01,Control,Después,85,1
+Tecnología,2026-02,Control,Después,84,1
+Tecnología,2026-03,Control,Después,86,1
+Tecnología,2026-04,Control,Después,85,1
+Tecnología,2026-05,Control,Después,85,1
+Tecnología,2026-06,Control,Después,84,2
+Talento Humano,2025-07,Control,Antes,67,1
+Talento Humano,2025-08,Control,Antes,68,1
+Talento Humano,2025-09,Control,Antes,65,2
+Talento Humano,2025-10,Control,Antes,68,0
+Talento Humano,2025-11,Control,Antes,66,1
+Talento Humano,2025-12,Control,Antes,67,0
+Talento Humano,2026-01,Control,Después,68,0
+Talento Humano,2026-02,Control,Después,68,1
+Talento Humano,2026-03,Control,Después,67,2
+Talento Humano,2026-04,Control,Después,65,0
+Talento Humano,2026-05,Control,Después,67,2
+Talento Humano,2026-06,Control,Después,68,2
+Marketing,2025-07,Control,Antes,69,1
+Marketing,2025-08,Control,Antes,68,0
+Marketing,2025-09,Control,Antes,69,0
+Marketing,2025-10,Control,Antes,66,1
+Marketing,2025-11,Control,Antes,66,0
+Marketing,2025-12,Control,Antes,68,1
+Marketing,2026-01,Control,Después,69,2
+Marketing,2026-02,Control,Después,68,0
+Marketing,2026-03,Control,Después,68,0
+Marketing,2026-04,Control,Después,66,0
+Marketing,2026-05,Control,Después,66,0
+Marketing,2026-06,Control,Después,67,0
